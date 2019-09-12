@@ -1,1 +1,23 @@
 echo "Hello World"
+
+  git clone https://github.com/SharifAbdulcoder/Resume_app.git
+10421  ls
+10422  clear
+10423  git clone https://github.com/SharifAbdulcoder/GIt.git
+10424  ls
+10425  git
+10426  clear
+10427  ls
+10428  cd GIt
+10429  ls
+10430  vim HelloWorld
+10431  ls
+10432  git add .
+10433  git commit -m "Hello World"
+10434  git push origin master
+10435  git commit -m "Hello World"
+10436  clear
+10437  git congif--global user.email "abdugofir00@gmail.com"
+10438  git congif --global user.email "abdugofir00@gmail.com"
+10439  git config --global user.email "abdugofir00@gmail.com"
+10440  git config --global
